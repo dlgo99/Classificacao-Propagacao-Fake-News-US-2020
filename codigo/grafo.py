@@ -1,3 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Script: Gerar Grafo de propagação.
+Autor: Daniel Lucas Gomes de Oliveira
+GitHub: https://github.com/dlgo99
+Data de criação: 03/06/2023
+Descrição: Gera Grafo dos dois usuários que fizeram os tweets, e depois classifica.
+"""
+
 import networkx as nx
 import matplotlib.pyplot as plt
 import random

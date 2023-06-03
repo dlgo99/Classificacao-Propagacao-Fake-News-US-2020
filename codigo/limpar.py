@@ -1,3 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Script: Limpar dataset hashtag_donaldtrump.csv
+Autor: Daniel Lucas Gomes de Oliveira
+GitHub: https://github.com/dlgo99
+Data de criação: 03/06/2023
+Descrição: Deixa o dataset formatado par ao funcionamento correto do código.
+"""
+
 # Nome do arquivo de entrada e saída
 arquivo_entrada = '../csv/hashtag_donaldtrump.csv'
 arquivo_saida = '../csv/hashtag_donaldtrump_limpada.csv'

@@ -1,3 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Script: Treinar SVM
+Autor: Daniel Lucas Gomes de Oliveira
+GitHub: https://github.com/dlgo99
+Data de criação: 03/06/2023
+Descrição: Treina a classificação da SVM das eleições;
+"""
+
 import pickle
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
