@@ -1,4 +1,4 @@
-# Código para classificação e propagação de fake news das eleiões dos Estados Unidos de 2020.
+# Código para classificação e propagação de fake news das eleições dos Estados Unidos de 2020.
 
 ---
 
