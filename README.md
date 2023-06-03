@@ -17,7 +17,7 @@ Para os dois usuários selecionados, um foi classificado como tendo feito um twe
 
 Ao todo a rede teve 1856 nós, e ao analisar o efeito de cascata dos nós que fizeram o tweet, percebe-se que cada um deles consegue alcançar as outras 1855 pessoas pertencentes e este grafo, mostrando que mesmo em uma grande rede com milhares de pessoas, é possível que uma notícia se propague muito facilmente, em menos de 10 saltos entre os amigos qualquer notícia chega a outra pessoa neste grafo.
 
-![alt text](data.png)
+![Grafo](grafo.png)
 
 ---
 
